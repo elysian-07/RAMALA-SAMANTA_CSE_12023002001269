@@ -1,83 +1,52 @@
-# FOLDER3 — Certificates
+# Selenium & Test Automation Portfolio
 
-## 📜 Overview
+## 📌 About
 
-This folder contains certificates demonstrating the completion of learning and training programs related to **Python Automation, Selenium WebDriver, Playwright, and Robot Framework**.
+This repository contains my academic and practical work related to **Python, Selenium WebDriver, Web Automation, and Software Testing**.
 
-These certifications complement the practical automation projects included in this repository.
+It includes assignments, a Selenium automation framework, project documentation, and relevant certificates.
 
----
+## 📂 Repository Structure
 
-## 🎓 Certificates
+### 📁 FOLDER1 — Selenium Assignments
+Contains Selenium Web Automation assignments covering:
 
-### 1. Python for Automation
+- Web Element Identification
+- Multiple Element Identification
+- CSS Selectors
+- Child Nodes using CSS
+- Project reports
+- Assignment demonstrations
 
-This certificate represents the completion of a learning program focused on using **Python for automation**.
-
-**Key Area:**
-- Python Automation
-
----
-
-### 2. Selenium WebDriver with Python
-
-This certificate represents the completion of a learning program focused on **web automation using Selenium WebDriver and Python**.
-
-**Key Areas:**
-- Selenium WebDriver
-- Python
-- Web Automation
-- Automated Testing
-
----
-
-### 3. Test Automation with Playwright (Python) & Robot Framework
-
-This certificate represents the completion of a learning program covering modern **test automation using Playwright with Python and Robot Framework**.
-
-**Key Areas:**
-- Playwright
-- Python
-- Robot Framework
-- Test Automation
-- Software Testing
-
----
-
-## 📂 Files
-
-```text
-FOLDER3/
-│
-├── README.md
-├── Python for Automation.pdf
-├── Selenium WebDriver with Python.pdf
-└── Test Automation with Playwright (Python) & Robot Framework.pdf
-```
-
----
-
-## 🛠️ Technologies & Skills
-
-The certificates cover the following technologies and areas:
+### 📁 FOLDER2 — Selenium Automation Framework
+Contains a structured Selenium framework developed with:
 
 - Python
 - Selenium WebDriver
-- Playwright
-- Robot Framework
-- Web Automation
-- Test Automation
-- Software Testing
+- PyTest
+- UnitTest
+- Page Object Model (POM)
+- Test Data Management
+- Logging & Screenshots
 
----
+### 📁 FOLDER3 — Certificates
+Contains certificates for:
 
-## 🎯 Purpose
+- Python for Automation
+- Selenium WebDriver with Python
+- Test Automation with Playwright (Python) & Robot Framework
 
-These certificates document additional technical learning and demonstrate the development of practical knowledge in **automation testing and Python-based test automation technologies**.
+## 🎥 Video Demonstrations
 
-They complement the Selenium assignments and automation framework included in this repository.
+Large video files are hosted externally due to GitHub file-size limitations.
 
----
+- [Assignment 1 - 4 Video](https://drive.google.com/file/d/1i5jDhgo8F1WCy0Xq2CucSGxBoNrD2fPi/view?usp=sharing)
+- [Selenium Framework Demonstration](https://drive.google.com/file/d/1R9HlLlUvEfFHciRBMtC9_pGk2g4As5CW/view?usp=sharing)
+- [CapStone Project Video](https://drive.google.com/file/d/13orL3fi43da-G-w3L_iACYt7y7g4oPTP/view?usp=sharing)
+
+## 🛠️ Technologies
+
+**Python · Selenium · PyTest · UnitTest · Playwright · Robot Framework · Git · GitHub**
 
 ## 👩‍💻 Author
 
