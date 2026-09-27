@@ -163,7 +163,7 @@ python run_unittest.py                 # unittest suite, without pytest
 
 The demonstration videos are hosted externally because the video files are too large to store directly in this GitHub repository.
 
-### Assignment 1 - 4
+### CapStone Project Demonstration
 
 ▶️ **[Watch CapStone Project Video](https://drive.google.com/file/d/13orL3fi43da-G-w3L_iACYt7y7g4oPTP/view?usp=sharing)**
 
