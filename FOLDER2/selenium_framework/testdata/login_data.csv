@@ -1,0 +1,7 @@
+test_case,email,password,expected,expected_message
+valid_login,<VALID_EMAIL>,<VALID_PASSWORD>,success,
+wrong_password,<VALID_EMAIL>,WrongPass@999,failure,Your email or password is incorrect!
+unregistered_user,nouser_zz99@example.com,Test@1234,failure,Your email or password is incorrect!
+empty_email,,Test@1234,failure,
+empty_password,<VALID_EMAIL>,,failure,
+empty_both,,,failure,

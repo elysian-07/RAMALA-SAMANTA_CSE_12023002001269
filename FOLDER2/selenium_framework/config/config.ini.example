@@ -1,0 +1,14 @@
+[app]
+base_url = https://automationexercise.com
+
+[browser]
+# chrome | firefox | edge
+browser = chrome
+headless = false
+explicit_wait = 30
+
+[credentials]
+# Register a user on the site first, then set these values
+# (or override with env vars VALID_EMAIL / VALID_PASSWORD — recommended)
+valid_email = your_email@example.com
+valid_password = your_password

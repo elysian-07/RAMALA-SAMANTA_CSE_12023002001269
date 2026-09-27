@@ -1,0 +1,6 @@
+test_case,keyword,expected
+search_tshirt,tshirt,found
+search_dress,dress,found
+search_jeans,jeans,found
+search_top,top,found
+search_invalid,xyzabc12345,not_found
